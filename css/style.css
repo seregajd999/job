@@ -134,6 +134,13 @@ body{
   padding: 30px;
   margin-bottom: 25px;
 }
+/*Обьемные вкладки при наведении*/
+.offer:hover{
+    
+    -webkit-box-shadow: 4px 8px 20px rgb(196 196 196 / 60%);
+    box-shadow: 4px 8px 20px rgb(196 196 196 / 60%);
+}
+
 .offer-img{
   width: 100px;
   height: 100px;
