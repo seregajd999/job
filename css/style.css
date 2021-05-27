@@ -28,6 +28,9 @@ body{
   border: none;
   font-size: 16px;
 }
+.button:hover{
+  background: #1a5eb3;
+}
 .button-link{
   color: #111238;
   padding: 10px;
@@ -173,6 +176,10 @@ body{
 .offer-button{
   max-width: 200px;
   margin: auto;
+}
+.offer-button-text{
+  color: #fff;
+  text-decoration: none;
 }
 .subscribe{
   background: #F2F3F6;
